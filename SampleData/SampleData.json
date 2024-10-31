@@ -1,0 +1,2498 @@
+{
+    "_type": "News",
+    "readLink": "https://api.bing.microsoft.com/api/v7/news/search?q=latest+news",
+    "queryContext": {
+        "originalQuery": "latest news",
+        "adultIntent": false
+    },
+    "totalEstimatedMatches": 59,
+    "sort": [
+        {
+            "name": "Best match",
+            "id": "relevance",
+            "isSelected": true,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=latest+news"
+        },
+        {
+            "name": "Most recent",
+            "id": "date",
+            "isSelected": false,
+            "url": "https://api.bing.microsoft.com/api/v7/news/search?q=latest+news&sortby=date"
+        }
+    ],
+    "value": [
+        {
+            "name": "Election 2024 latest news: Harris returns to N.C.; Trump to visit Ariz.",
+            "url": "https://www.msn.com/en-us/news/politics/election-2024-latest-news-harris-returns-to-n-c-trump-to-visit-ariz/ar-AA1sbu0b",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.luwHUlxmx4KoBPEtZWyDQS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Get the latest news from the 2024 campaign trail in the contest between Vice President Kamala Harris and former president Donald Trump.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/eb3d2900-d8f6-7103-31a3-4a9f285c366a",
+                    "name": "2024 United States presidential election"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cf52f4b6-e15c-553b-c991-5fd07410b914",
+                    "name": "J. D. Vance"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f38cda49-b64f-17fd-7bee-8b4b8615e92e",
+                    "name": "Tim Walz"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2e9c34fc-2772-492e-d563-1fc247a0e692",
+                    "name": "FOX News Sunday with Chris Wallace"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cad484f9-be75-7a78-12dd-16233f823cd7",
+                    "name": "Joe Biden"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bc67138a-d1aa-48b0-aefa-6d2bbbb443f8",
+                    "name": "Tampa, Florida"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/29fe3d24-3a51-f669-2349-7285e694781d",
+                    "name": "Bill Clinton"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/84604bc7-2c47-4f8d-8ea5-b6ac8c018a20",
+                    "name": "Georgia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e2ee59a1-2d38-eeb9-6822-b42b353fab32",
+                    "name": "The Republicans"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.JRpbjhQKSgfe9BXmFtAAoA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T13:05:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Latest entertainment News, Live Updates Today October 13, 2024: Did Karan Johar call Divya Khossla Kumar ‘a fool’ after her dig at Alia Bhatt's Jigra? She doubles down on ...",
+            "url": "https://www.msn.com/en-in/news/other/latest-entertainment-news-live-updates-today-october-13-2024-vicky-vidya-ka-woh-wala-video-box-office-collection-day-2-rajkummar-rao-film-stays-ahead-of-jigra-earns-6-75-crore/ar-AA1sabZf",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.LGmPCwuzRYodWyv6mfhW5i&pid=News",
+                    "width": 549,
+                    "height": 309
+                }
+            },
+            "description": "Welcome to the live updates platform for Hindustan Times. Follow the major news updates, headlines and breaking news stories from the world of entertainment right here. See the latest developments in Bollywood,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5813dff8-75a3-5ea3-a8ad-fcaeeeaf5012",
+                    "name": "Karan Johar"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2258b9a6-dd96-4549-b51d-c33e89ae7174",
+                    "name": "Alia Bhatt"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "MSN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Caqyr0opfKlydldMITdwcw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T06:10:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "How different turnout models change the NBC News poll results",
+            "url": "https://www.nbcnews.com/politics/2024-election/different-turnout-models-change-nbc-news-poll-results-rcna175096",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.Npy8jDdCsQKltfuQGJSVKC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "A few percentage points of difference in turnout by gender or education can produce very different results, both in election polls and in elections themselves.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/90fd2ef2-8123-de59-2b1f-ccd033454a4a",
+                    "name": "NBC News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/83a8d87b-0b0f-9ad0-3bc2-ddfeb727d7ff",
+                    "name": "Voter turnout"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/022d3e13-c9e7-91f5-ce61-8a3d48d58fc6",
+                    "name": "Democratic Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/53c34e6f-f7f3-a9b0-880a-612e57dd8e9b",
+                    "name": "Republican Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "NBC News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ighWNnrr5MMFUs8WKMme2A&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T13:01:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Breaking News, October 12 | LIVE UPDATES",
+            "url": "https://www.indiatvnews.com/news/india/breaking-news-october-12-bagmati-train-accident-news-trichy-airport-news-vijaya-dashami-haryana-jammu-kashmir-assembly-election-pm-modi-live-updates-956739",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.sNCqDctAJC-Nu5orGiJbES&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "India TV News provides you with all the breaking news, latest news, breaking story videos, and Live TV on a single platform to ensure you don't miss the biggest happenings in India and the world.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "India TV",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.IaXDAOnJaO-iU5IbMMsMHw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-12T12:31:00.0000000Z"
+        },
+        {
+            "name": "Erik ten Hag Man United sack latest - New manager linked, coach hired, next game expectation",
+            "url": "https://www.manchestereveningnews.co.uk/sport/football/football-news/erik-ten-hag-man-united-30132028",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.RasB2bvJCBCgpDG_3C2uIy&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "United currently sit 14th in the top-flight standings with the lowly position following last season's eighth-placed finish - their worst since 1990. A meeting took place between the club's hierarchy in London on Tuesday with Ten Hag's future understood to be among other things on the agenda.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a61e1753-9864-40c2-8860-7a57dde78c3a",
+                    "name": "Erik ten Hag"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/064ce28e-ed07-a026-2f79-1b321d7548ea",
+                    "name": "Manchester United F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/02bde011-1e9d-3aff-8309-7d07d4031798",
+                    "name": "Premier League"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d4c3ff49-234d-d9bb-d62d-df98215a6084",
+                    "name": "Ajax"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6ebc31f5-36a7-3b3d-18b1-e6be3d21fd3e",
+                    "name": "Brentford"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/08556943-8d32-e577-ce76-a0cdb82b40ee",
+                    "name": "José Mourinho"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fce6ecb5-1abd-d828-99fa-ffd307b20fb4",
+                    "name": "Fenerbahçe S.K."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fcf26e59-1c27-8bc8-206f-f8adb170f4a2",
+                    "name": "UEFA Europa League"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6e44401c-0a3f-2035-43ae-590bebcb57ae",
+                    "name": "Manchester Evening News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b12f84ff-3350-8fc4-0dc6-146456fdb333",
+                    "name": "Borussia Dortmund"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2b9fa0a8-4ac9-62d0-43d7-636e476af987",
+                    "name": "Edin Terzić"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Manchester Evening News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.oxaa8-w2MDoXi5yOUu7A3w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T12:00:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "New Honda Forza 125, Forza 300 Scooters Break Cover With Updates",
+            "url": "https://www.timesnownews.com/auto/bike-news/new-honda-forza-125-forza-300-scooters-break-cover-with-updates-article-114189748",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.19OM9-5n4tmmY6-hbuejGi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The 2025 versions of the Honda Forza 125 and Forza 300 have received aesthetic upgrades and changes in the feature list when compared to the previous version, while the powertrain remains the same., B",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3c79adc7-058f-08fe-48db-237d1145eade",
+                    "name": "Honda"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "timesnownews",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.KANCozAEZYO1NwXNST5YDQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T11:19:00.0000000Z"
+        },
+        {
+            "name": "INDIA VS NEW ZEALAND 2024 news",
+            "url": "https://www.news18.com/cricket/series/india-vs-new-zealand-2024.html",
+            "description": "Rohit Sharma, the Indian Test skipper is making his way to Bengaluru for the first Test against New Zealand.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/56bcfaf9-df53-4e77-1e38-f8a7da102c63",
+                    "name": "Rohit Sharma"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e3027fb3-3f4b-4c71-e40c-e07ddcf89bd3",
+                    "name": "Bengaluru FC"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6517d967-9362-4c0d-83d2-cf369fa5fcda",
+                    "name": "New Zealand"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN-News18",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.raV3hWx5LJpFUHNtCFAcrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T10:56:00.0000000Z"
+        },
+        {
+            "name": "Baba Siddique Death News LIVE Updates: Six Bullets Fired, Three Hit Baba Siddique; Police Seek 14-day Remand",
+            "url": "https://www.timesnownews.com/india/india-breaking-news-today-latest-news-live-updates-october-13-2024-liveblog-114180799",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3nE5VhRV1j9KlMO8Kf_lyy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "NCP leader and former Maharashtra minister Baba Siddique died in hospital after being shot by three men in Mumbai's Bandra East area on Saturday night. <br /><br />Who was Baba Siddique?<br /><br />Baba Siddique joined the Congress party as a teenager and served three terms as an MLA from Mumbai’s Bandra West constituency.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caf71cb2-e8a5-48ec-b9b1-384956020bb9",
+                    "name": "Baba Siddique"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fbbc8d69-667a-e1ff-34bf-e524be01025d",
+                    "name": "Mumbai"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4381a093-9ca1-bd24-7f39-2a8506e5eab2",
+                    "name": "Times Now"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4bbe4836-6e77-4b44-ffcb-63f36b14e872",
+                    "name": "Salman Khan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/404390b9-1258-48a1-14e6-70f22f092f00",
+                    "name": "Durga Puja"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "timesnownews",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.KANCozAEZYO1NwXNST5YDQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T10:56:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "The latest on the 2024 presidential campaign",
+            "url": "https://www.cnn.com/politics/live-news/trump-harris-election-10-13-24/index.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.CFlU0D6r2s1hmPLoiqduYC&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "Kamala Harris and Donald Trump continue on the campaign trail. Follow here for the latest live news updates on the 2024 presidential race.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/137bb412-5a45-fc63-29e7-ee3aa5b6d093",
+                    "name": "ABC News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.t0BGYosS4GKZSebCajKQGA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T12:33:00.0000000Z",
+            "video": {
+                "name": "Donald Trump, Kamala Harris election news | CNN Politics",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.SzQjjnE2%2B7fUujAA%2BQ%2FsZg&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            },
+            "category": "Politics"
+        },
+        {
+            "name": "Baba Siddique News LIVE: 28 Live Cartridges Found With Accused Gunmen; Opposition Slams Shinde Govt",
+            "url": "https://www.news18.com/india/baba-siddique-murder-liveblog-ncp-leader-death-mumbai-police-probe-salman-khan-lawrence-bishnoi-gang-latest-news-october-13-liveblog-9084283.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.iOzvyiAO3fCA6jUKn7USNC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Baba Siddique, a senior leader of the NCP led by Ajit Pawar, was killed after being shot by three unidentified individuals in Bandra East, Mumbai, on Saturday.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caf71cb2-e8a5-48ec-b9b1-384956020bb9",
+                    "name": "Baba Siddique"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9807d3c8-3948-8c43-0ae8-87f6fea1ce04",
+                    "name": "Politics of Maharashtra"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a304d7f-415c-c89e-6363-8f056f1d07d1",
+                    "name": "Nationalist Congress Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a78250d9-2f2f-55ab-3257-ef8b29402ded",
+                    "name": "Ajit Pawar"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fbbc8d69-667a-e1ff-34bf-e524be01025d",
+                    "name": "Mumbai"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5e796370-87e2-b41b-abe8-0f5d7a6d768a",
+                    "name": "Mumbai Police"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN-News18",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.raV3hWx5LJpFUHNtCFAcrw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T11:11:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "Brian Robinson injury update: Latest news on Commanders RB's Week 6 status",
+            "url": "https://www.msn.com/en-us/sports/nfl/brian-robinson-injury-update-latest-news-on-commanders-rbs-week-6-status/ar-AA1s9YBt",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3NHopmCkBFxvgdAwOIGE2S&pid=News",
+                    "width": 700,
+                    "height": 394
+                }
+            },
+            "description": "Washington Commanders running back Brian Robinson was listed as questionable for Week 6 after the team released its final injury report of the week. However, the Commanders provided an update on their injured running back on Saturday.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f0ddbec7-2b32-8786-b71a-fff5c375b5ea",
+                    "name": "Washington Commanders"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/02d66ba5-676a-b9fe-9999-b4fee1a08d7a",
+                    "name": "Jayden Daniels"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Sporting News on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.RuywmtySopvFFCp3mZcpew&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-12T20:23:53.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Breaking News, October 9 | HIGHLIGHTS",
+            "url": "https://www.indiatvnews.com/news/india/breaking-news-october-9-live-updates-pm-modi-haryana-jammu-and-kashmir-election-results-govt-formation-bjp-congress-aap-956196",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.sNCqDctAJC-Nu5orGiJbES&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "India TV News provides you with all the breaking news, latest news, breaking story videos, and Live TV on a single platform to ensure you don't miss the biggest happenings in India and the world.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "India TV",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.IaXDAOnJaO-iU5IbMMsMHw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-09T17:56:00.0000000Z"
+        },
+        {
+            "name": "Business News Highlights: Victim of cyberattack, investigation underway, Star Health responds to data leak",
+            "url": "https://www.moneycontrol.com/news/business/rbi-mpc-meeting-2024-live-updates-rbi-monetary-policy-committee-shaktikanta-das-governor-speech-repo-rate-interest-rate-decision-liveblog-12838345.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.2wuLMWmh11xiXaRyf7F7vC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Competition Commission of India (CCI) has approved the first tranche of acquisition, allowing JM Financial Limited to acquire a 42.99% stake in JM Financial Credit Solutions Limited (JMFCSL) for Rs 1,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bf8a9871-c4a3-01ea-df75-39f5f9a3873b",
+                    "name": "Star Health and Allied Insurance"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d339fb02-3595-06e2-13c8-07a67526b2fb",
+                    "name": "Securities and Exchange Board of India"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "moneycontrol.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6cDpSqcPHtFVWBrthkD9pQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-12T19:21:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Tee Higgins trade rumors tracker: Latest news on potential landing spots for Bengals WR",
+            "url": "https://www.msn.com/en-us/sports/nfl/tee-higgins-trade-rumors-tracker-latest-news-on-potential-landing-spots-for-bengals-wr/ar-AA1sbqhY",
+            "description": "Ahead of the NFL Draft, The Athletic explored the various options facing the Bengals. With Higgins' trade request still fresh on the minds of everyone, it's reported that Cincinnati's vision for its short- and long-term future includes Higgins.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/47773134-5daf-f54f-66b6-14b6963c75ec",
+                    "name": "Tee Higgins"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ca6a16b0-ceff-fe7f-89f2-319216ae6788",
+                    "name": "Cincinnati Bengals"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Sporting News on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.RuywmtySopvFFCp3mZcpew&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T10:00:01.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Baba Siddique News Live Updates: 'Accused paid in advance, received arms delivery few days ago,' say Mumbai Police",
+            "url": "https://timesofindia.indiatimes.com/india/baba-siddique-death-news-live-updates-mumbai-bandra-east-ncp-leader-ajit-pawar-murder-eknath-shinde-zeeshan-siddique/liveblog/114178039.cms",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.bCLCNp-Tga9_CC4ydOnglS&pid=News",
+                    "width": 700,
+                    "height": 379
+                }
+            },
+            "description": "NCP leader and former Maharashtra minister Baba Siddique died in hospital after being shot by three men in Mumbai's Bandra East area on Saturday night, officials said. Two persons were arrested immediately after the incident that took place outside his MLA son Zeeshan Siddiqui's office near Colgate ground in Nirmal Nagar",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5e796370-87e2-b41b-abe8-0f5d7a6d768a",
+                    "name": "Mumbai Police"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caf71cb2-e8a5-48ec-b9b1-384956020bb9",
+                    "name": "Baba Siddique"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Indiatimes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.VBzHmoY4z9NL3FbRonyM1w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-12T20:26:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "Latest Office Suite News",
+            "url": "https://www.pcmag.com/news/categories/office-suites",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3Tq8LYnuVzESO8D4O7zF8S&pid=News",
+                    "width": 700,
+                    "height": 700
+                }
+            },
+            "description": "The updated office suite, which requires only a one-time purchase, arrives on the same day as Windows 11. Rate increases vary from $1 to $4 per seat, per month for business customers. Microsoft is planning to have the OneNote app bring OneNote for Windows 10 into the fold.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c7daa294-d7e1-0390-9f09-8f8c015391af",
+                    "name": "Microsoft 365"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a093e9b9-90f5-a3d5-c4b8-5855e1b01f85",
+                    "name": "Microsoft"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6dde426c-96c7-18bd-f4e1-b41b7575557a",
+                    "name": "Schleswig-Holstein"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/650b3186-26d6-6338-12c4-d1c4b0d1102f",
+                    "name": "LibreOffice"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2f4e933-bfad-f184-fcf4-20042e4bed36",
+                    "name": "Linux"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ce00286a-e903-ff2c-7dac-b49bd707399c",
+                    "name": "Amazon"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/51ced4de-b878-8aef-96cc-784f99351c27",
+                    "name": "Machine learning"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b6c6d65c-4f80-60fb-2799-08ad9229faf7",
+                    "name": "Microsoft Office"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "PC Magazine",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.zQjYLB70j-WJs8cTJd3iGQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-12T18:37:00.0000000Z"
+        },
+        {
+            "name": "Fox News Entertainment Newsletter: Kate Middleton done playing peacemaker; Diddy may face new charges",
+            "url": "https://www.foxnews.com/entertainment/fox-news-entertainment-newsletter-kate-middleton-done-playing-peacemaker-diddy-might-face-new-charges",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.LXSoRihUPUPSIrpP2mqcOi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Fox News Entertainment Newsletter brings you the latest Hollywood headlines, celebrity interviews and stories from Los Angeles and beyond.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/273e0477-30ed-3993-f232-f39244306805",
+                    "name": "Fox News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ae7736c2-4291-bc85-8732-6d20c29ff943",
+                    "name": "Prince Harry, Duke of Sussex"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fe9184f0-ba14-404d-92cc-75ad30d5bbd9",
+                    "name": "Sex trafficking"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ff9969b8-7950-5c73-132b-155d90374c77",
+                    "name": "Dancing with the Stars"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2eb76aa0-83e1-bfcd-2ca3-4937a5f8f499",
+                    "name": "Julianne Hough"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1c8cddfa-6fd2-3ebe-eb30-a48a7e79968e",
+                    "name": "Jennifer Lopez"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c181e50a-0ce8-9ff6-21ee-e3c0a82cfb09",
+                    "name": "Ben Affleck"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/92965654-e7e2-5dd4-70e1-57ff6aa91698",
+                    "name": "The Walt Disney Company"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b5556b46-1b1b-49b0-860d-7747d71dcbef",
+                    "name": "Sabrina Carpenter"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/374e8c48-56ef-4d34-85da-6d51d2f53e7d",
+                    "name": "Sharna Burgess"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e92a1583-8b8c-e7be-a3d7-6a59b033d73a",
+                    "name": "Brian Austin Green"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dd44813f-0ce1-08f2-7bfc-1332a341de2a",
+                    "name": "Gleb Savchenko"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox News",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mdH-v7wPV5psO7NVm756zg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-12T16:08:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Delhi News Live Updates: PM Modi, President Droupadi Murmu attend Dussehra celebrations at Red Fort",
+            "url": "https://indianexpress.com/article/cities/delhi/delhi-news-live-updates-atishi-aap-kejriwal-9612930/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.HbDcAINcpwljY0Gos68YBy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Delhi News Live Updates: Prime Minister Narendra Modi and President Droupadi Murmu on Saturday attended the Dussehra programme organised by Shri Dharmik Leela Committee at Madhav Das Park, Red Fort, news agency ANI reported. The Prime Minister and President were also present for the ‘Ravan Dahan’ during the programme.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27fe1dd8-5711-56d7-c77a-7b4d937dcbfe",
+                    "name": "Delhi, Iowa"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/003bb172-a925-6e32-f192-a79767e56490",
+                    "name": "PM Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/4b999c2d-4525-3c0a-9b9c-5ffab0d57dfb",
+                    "name": "Red Fort"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/98d8bac3-8012-4160-910d-49644124e0c4",
+                    "name": "Asian News International"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3d686ae4-7071-3467-548e-44c57a67ddb4",
+                    "name": "Department of Public Works and Highways"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Indian Express",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.KAwemXIpD5l2nQRDmYLy2w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T00:05:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "American Culture Quiz: Test yourself on iconic locations, fall foods and a new film announcement",
+            "url": "https://www.msn.com/en-us/news/us/american-culture-quiz-test-yourself-on-iconic-locations-fall-foods-and-a-new-film-announcement/ar-AA1sbwrE",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.FaiX8UZgVrI0LM88qThGly&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The American Culture Quiz is a weekly test of our unique national traits, trends, history and people. This time, test your knowledge of bucket-list monuments, fall foods and a new film announcement.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "FOX News on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.mdH-v7wPV5psO7NVm756zg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T13:10:00.0000000Z",
+            "category": "LifeStyle"
+        },
+        {
+            "name": "Nvidia's stock surge, Uber picks up ChatGPT, and AMD's new chips: AI news roundup",
+            "url": "https://www.yahoo.com/tech/nvidias-stock-surge-uber-picks-090000360.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.OKSqzVpShIO75aXWQZizpy&pid=News",
+                    "width": 636,
+                    "height": 358
+                }
+            },
+            "description": "Demand for artificial intelligence products sent Nvidia and Super Micro stocks surging this week. Meanwhile, fellow chipmaker AMD launched new AI chips as it eyes a $500 billion market for data center AI accelerators by 2028.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7da34a4e-8746-2081-95d8-37215105ef27",
+                    "name": "Nvidia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8a6a4f67-6f18-895e-f565-4340f3f76bb5",
+                    "name": "Uber"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9d99fb44-edac-0e03-1579-19d8d8591a49",
+                    "name": "Artificial intelligence"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc565bd7-460f-0dd0-830b-9bf2da8730e5",
+                    "name": "Advanced Micro Devices"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9a39fe47-3ab1-3a36-aed3-e4ccd425b02e",
+                    "name": "Jensen Huang"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd50554c-1bc4-58dc-f6a2-d0ddfe2ba8cb",
+                    "name": "Nobel Prize"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-11T09:41:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "US imposes sanctions on Indian company for transporting Iranian oil after missile attack on Israel",
+            "url": "https://www.msn.com/en-in/news/world/us-imposes-sanctions-on-indian-company-for-transporting-iranian-oil-after-missile-attack-on-israel/ar-AA1sasGh",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.4u2p2rxJbOm08ywb_9dFwy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Gabbaro Ship Services, an Indian shipping firm, faces U.S. sanctions for allegedly transporting Iranian oil to Asia, following Iran’s missile attack on Israel. The sanctions aim to disrupt Iran’s energy trade funding terrorism and missile programs.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1ffafed3-2b37-b871-c271-aa855d98449a",
+                    "name": "Israel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/502b5268-992d-26c9-a0d8-6f206338406e",
+                    "name": "Iran"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f06d7d8e-1c53-dde9-b38d-c9c0cbbf7653",
+                    "name": "Hornet"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7105fc08-1958-b454-5216-cd319a983ad0",
+                    "name": "Tel Aviv"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Live Mint on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.W8vM8p2PIvfc6Sh2F0nZpA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T12:36:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "Breaking News Live: Major terror incident averted in Baramulla, says Indian Army",
+            "url": "https://timesofindia.indiatimes.com/india/latest-india-world-news-live-updates-today-breaking-news-october-10-2024/liveblog/114097260.cms",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.oWqvN9oMmI_QFekZzFrI9S&pid=News",
+                    "width": 700,
+                    "height": 379
+                }
+            },
+            "description": "World News Live Updates: Massive solar eruption expected to trigger Auroras across the US",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ed4fce79-8ad4-352b-205b-e4db36c49bbe",
+                    "name": "Russia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d6f23f86-5739-a688-4e15-c519cc203ca8",
+                    "name": "Telegram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c407208-bb4b-a877-683f-0386fa9f5690",
+                    "name": "Maykop"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f27346b7-d8ea-8356-6514-4a77798c23ca",
+                    "name": "Kuban"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/315cd10e-fb70-a20b-e6a9-201976d79c32",
+                    "name": "Coronal mass ejection"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/376f8b06-52f6-4e72-a31d-311a3563e645",
+                    "name": "Alabama"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Indiatimes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.VBzHmoY4z9NL3FbRonyM1w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-10T16:44:00.0000000Z"
+        },
+        {
+            "name": "DWP latest on whether PIP, pension credit or carer's allowance will be axed",
+            "url": "https://www.msn.com/en-gb/news/newsbirmingham/dwp-latest-on-whether-pip-pension-credit-or-carers-allowance-will-be-axed/ar-AA1sbLv8",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.5e4jHHc9Z-eONvnPke-3jS&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Failure to respond to the letter in time could result in a loss of benefits. The DWP aims to reach out to all affected parties by the end of December 2025. The DWP has released an exhaustive list of the welfare payments that will be axed, WalesOnline reports.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dab57172-2177-b1aa-1330-bb0454afd29d",
+                    "name": "Department for Work and Pensions"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d1bded8f-960f-239f-8239-006612b46a10",
+                    "name": "Universal Credit"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Birmingham Mail on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jPou0vlDKt0Px6h21V_3rw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T13:31:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Here are the latest news and big news stories to follow today",
+            "url": "https://www.thehindu.com/newsletter/the-morning-brew/here-are-the-latest-news-and-big-news-stories-to-follow-today/article68726063.ece",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.raIQgz223yV6-yHz2KcZ4C&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Union Home Minister Amit Shah will review on Monday (October 7, 2024) the security situation of the Naxal-affected states with the Chief Ministers of eight states hit by the menace. The CMs of Andhra Pradesh, Bihar, Chhattisgarh, Jharkhand, Telangana, Odisha, Maharashtra and Madhya Pradesh will attend the meeting.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1ffafed3-2b37-b871-c271-aa855d98449a",
+                    "name": "Israel"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/502b5268-992d-26c9-a0d8-6f206338406e",
+                    "name": "Iran"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04363072-0838-a9a8-a637-91939af980af",
+                    "name": "Geography of the Maldives"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/275e8ab8-7bd0-4633-9c89-0133be92e587",
+                    "name": "Delhi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/85fa63d3-9596-adb9-b4eb-502273d84f56",
+                    "name": "India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/04fee623-e9bd-ee4b-f30d-cad3c29199e4",
+                    "name": "Narendra Modi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d9a8abc-8fa4-620b-cf5f-c5c212f38516",
+                    "name": "Amit Shah"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9e3a52bb-38ae-c817-5cd2-7a8dd2a4c0e5",
+                    "name": "Andhra Pradesh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e402c108-ade8-40dd-b6d7-f36882e8e3e3",
+                    "name": "Bihar"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/91e8d1d3-b929-8697-13f5-91241ae0d1b6",
+                    "name": "Chhattisgarh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9cf33868-3d76-c243-1cd3-91dda44b77e3",
+                    "name": "Jharkhand"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Hindu",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.o02GSZdTevALqec1nQSW2Q&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-06T17:21:00.0000000Z",
+            "category": "World"
+        },
+        {
+            "name": "Dussehra 2024 Holiday: Schools Closed in Delhi, UP, Telangana, AP and Other States, Check Latest Updates",
+            "url": "https://www.jagranjosh.com/news/dussehra-2024-school-holidays-list-up-delhi-telangana-ap-and-others-schools-closed-on-oct-12-check-latest-news-174555",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.KBnvp2fBj3DYX2MDYERS5y&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Schools in various states such as UP, Delhi, AP, Telangana, and others will remain closed on Dussehra aka Vijayadashami. Check latest news here.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27fe1dd8-5711-56d7-c77a-7b4d937dcbfe",
+                    "name": "Delhi, Iowa"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/19abdc7d-29ea-4ed5-99d8-3a1d7bc90b05",
+                    "name": "Telangana"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/78e303ef-c0ca-92f5-8ac5-a4f0f2ca1919",
+                    "name": "Vijayadashami"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f624b656-1585-9836-7a98-128016c67d52",
+                    "name": "Uttar Pradesh"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/58d414c6-9557-d15b-60ff-52f256e32345",
+                    "name": "Rajasthan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/780f7935-31b3-a278-f937-ce9614eae9af",
+                    "name": "The Hindu"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c993924b-0c2b-1404-a010-735da031eb4a",
+                    "name": "Ravana"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "jagranjosh.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Pg1CxWVlDOcYEbJ-sTiq_g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-11T12:24:00.0000000Z",
+            "category": "LifeStyle"
+        },
+        {
+            "name": "New UK employment laws announced including sick pay reform and flexible working for all",
+            "url": "https://www.msn.com/en-gb/money/other/new-uk-employment-laws-announced-including-sick-pay-reform-and-flexible-working-for-all/ar-AA1sbjs7",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.g2vwhL6HuXhx7AidggaV9C&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "The Employment Rights Bill will raise the minimum floor of employment rights and raise living standards across the country, the government has said",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1459848a-c629-f120-5972-85a7601f1a52",
+                    "name": "Jonathan Reynolds"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Wales Online on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.lVPjCN3LmTro40TL-cwcLg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T10:34:23.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Michael Pittman's latest move gives Colts more good news ahead of Titans game",
+            "url": "https://www.msn.com/en-us/sports/nfl/michael-pittman-s-latest-move-gives-colts-more-good-news-ahead-of-titans-game/ar-AA1saD7f",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.KOtMGu3EjKHlDavGrVyFmS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Colts could be closer to full strength with the return of wide receiver Michael Pittman when the team takes on the Titans in Week 6.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d0e63b83-2ccd-66f8-0eca-88131c7dfd39",
+                    "name": "Michael Pittman Jr."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ee925e36-feee-68ad-171e-3736ba96bf13",
+                    "name": "Jacksonville Jaguars"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3d444534-8840-6ddb-b78b-16e887c518ec",
+                    "name": "Indianapolis Colts"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/35ad19d7-d5ac-0b0a-cd87-2ccd84deeece",
+                    "name": "Anthony Richardson"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cf496da7-af59-986e-56f0-87020f66d9fa",
+                    "name": "Joe Flacco"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7a27e9dc-31af-ec17-ad26-c927d7c503d0",
+                    "name": "Jonathan Taylor"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f7d334b4-56d0-e585-93cb-c13e8f359e82",
+                    "name": "Tennessee Titans"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ClutchPoints on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ZMrp_7AmgxfL3U8A5hP1cA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T02:33:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Will stop linking to New Zealand news if proposed new law passed: Google",
+            "url": "https://www.msn.com/en-gb/money/technology/google-says-it-will-stop-linking-to-new-zealand-news-if-proposed-new-law-passed/ar-AA1rG1EV",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.QKJw0LVdgff4Sb3vo4tdbC&pid=News",
+                    "width": 400,
+                    "height": 400
+                }
+            },
+            "description": "Caroline Rainsford, Google New Zealand Country Director said in a blog post that if the bill as it currently stands becomes law, Google would be forced to make changes to its products, investments",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6517d967-9362-4c0d-83d2-cf369fa5fcda",
+                    "name": "New Zealand"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/11c7b440-2325-06d4-0499-35887283bd88",
+                    "name": "New Zealand Labour Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0edabf9c-4239-7a77-3fd7-c2709549473e",
+                    "name": "Google Search"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f9ebcfd6-3bbf-f425-1982-0b772c23fc08",
+                    "name": "Google News"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jFXbg3L7Ce_1pS4_IOR8CA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-04T04:09:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Latest news on Dolly after Kaizer Chiefs",
+            "url": "https://www.msn.com/en-za/news/other/latest-news-on-dolly-after-kaizer-chiefs/ar-AA1rWNm0",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.pOi1_RkR0B7FzQumfLXpsi&pid=News",
+                    "width": 700,
+                    "height": 500
+                }
+            },
+            "description": "Former Kaizer Chiefs captain Keagan Dolly is not doing so well. The Johannesburg-born player is still searching for a new club.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/923117f4-2b85-b506-fb82-84ecc5eee639",
+                    "name": "Kaizer Chiefs F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6297cb19-77f3-43fb-a718-33c66dc72bed",
+                    "name": "Keagan Dolly"
+                }
+            ],
+            "mentions": [
+                {
+                    "name": "Keagan Dolly"
+                },
+                {
+                    "name": "Dolly"
+                },
+                {
+                    "name": "Kaizer Chiefs F.C."
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "richest on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.k5pBiBOSVDJzdt7aJD-Mng&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-09T09:44:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Apple’s New iPhone Update—Bad News Revealed For Millions Of Google Users",
+            "url": "https://www.forbes.com/sites/zakdoffman/2024/10/11/apple-ios-18-bad-news-for-google-as-millions-of-iphone-15-iphone-16-users-update/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.VXvIOPx3_wmmINJMrpVBIy&pid=News",
+                    "width": 700,
+                    "height": 368
+                }
+            },
+            "description": "And while Google has teased Apple over its compromised deployment of RCS, it has also left no-one in any doubt as to how welcome this is. But there was always a risk that Google and its users wouldn’t see the leveled playing field they so wanted, and that risk now seems to be coming true.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6fa57c29-e813-4a1d-7fba-3541ca4c1dc3",
+                    "name": "Apple Inc."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ceeab753-899f-4459-8ceb-d64ec0992439",
+                    "name": "iPhone"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0",
+                    "name": "Google"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fb98eb49-dc84-d093-de2a-2d0dd8f0cd02",
+                    "name": "SMS"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d2aa58a2-940f-a1b7-1d2d-2775c2845ff4",
+                    "name": "Encryption"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1862b0eb-b6df-1d6f-1dba-289a872e9297",
+                    "name": "iMessage"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e222f4ec-6195-a300-6e2a-d15093aece26",
+                    "name": "WhatsApp"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U6nYa4Huf-RFEhjg-V4hNg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-11T14:50:00.0000000Z",
+            "video": {
+                "name": "Apple’s New iPhone Update—Bad News Revealed For Millions Of Google Users",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.L9%2BFWTNyInDJA7FUru%2FElQ&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 273
+                }
+            },
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "My Hero Academia season 8 release date speculation and latest news",
+            "url": "https://www.radiotimes.com/tv/fantasy/anime/my-hero-academia-season-8-release-date/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT._E8xSl-1OtorycVwJOyYdS&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Yes, My Hero Academia season 8 has been confirmed – and it will also be the final season. The news arrived on 10th October 2024 in the promotional pullout My Hero Mass Media, which has previously made big announcements about the series. You can see the page as it appeared in the issue in the post below, shared by a fan.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2f353bb1-85fa-b748-84dc-562723b19c50",
+                    "name": "My Hero Academia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/614b60a2-4ccd-3ecb-15dc-6e2fba54ed28",
+                    "name": "The New York Times"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c1b0995b-0ccf-730d-0eaf-a6425847c66c",
+                    "name": "Superhero"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Radio Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.HVIMpkpJ5pX4_z5dj2pDfw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-12T07:07:00.0000000Z"
+        },
+        {
+            "name": "2024 election update: Harris health report comparison to Trump, latest polls, news | Oct. 12",
+            "url": "https://www.msn.com/en-us/health/other/2024-election-update-harris-health-report-comparison-to-trump-latest-polls-news-oct-12/ar-AA1sagi7",
+            "description": "NEW YORK - With 2024 Election Day now 24 days away, Vice President Kamala Harris's doctor stated in a letter on Saturday that she is in \"excellent health.\" This announcement comes as she released her first medical report to highlight the difference between her and her 78-year-old opponent, Republican Donald Trump.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "FOX 5 New York on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.A_wgay6nFgfB-P7rnmXtOA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T00:12:00.0000000Z",
+            "video": {
+                "name": "Doctor: Kamala Harris in excellent physical health",
+                "motionThumbnailUrl": "https://prod-streaming-video-msn-com.akamaized.net/v1/eus002/806d160d-50b2-4ab5-9aea-03a0ecddecbe/a3e7080b-a593-40f3-828e-29642f7cdb7f_650.mp4",
+                "thumbnail": {
+                    "width": 640,
+                    "height": 360
+                }
+            },
+            "category": "World"
+        },
+        {
+            "name": "Donald Trump Erases Kamala Harris Lead in New National Poll",
+            "url": "https://www.msn.com/en-us/news/politics/donald-trump-erases-kamala-harris-lead-in-new-national-poll/ar-AA1sbJE1",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.0T8y1MQrRei4pJAWeeaFwi&pid=News",
+                    "width": 700,
+                    "height": 494
+                }
+            },
+            "description": "Former President Donald Trump has erased Vice President Kamala Harris' 5-point lead, according to a new poll released on Sunday. The race between Trump, the Republican presidential nominee, and Harris,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/53c34e6f-f7f3-a9b0-880a-612e57dd8e9b",
+                    "name": "Republican Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/022d3e13-c9e7-91f5-ce61-8a3d48d58fc6",
+                    "name": "Democratic Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/6bc2c73d-9a31-34df-0fa2-038918b833c2",
+                    "name": "Election day"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/90fd2ef2-8123-de59-2b1f-ccd033454a4a",
+                    "name": "NBC News"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Newsweek on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.uTJA7JDoTGKvff5o3jotfg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T13:19:22.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "New Zealand beat Britain again to take 3-0 America's Cup lead",
+            "url": "https://www.reuters.com/sports/new-zealand-beat-britain-again-take-3-0-americas-cup-lead-2024-10-13/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.p5TwmYMaINyWmmGtUAtMhi&pid=News",
+                    "width": 700,
+                    "height": 366
+                }
+            },
+            "description": "New Zealand won the third America's Cup race against Britain on Saturday to take a 3-0 lead in the first-to-seven series.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1947722e-aa3d-0700-6656-56bd2e73faf0",
+                    "name": "Ben Ainslie"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1bfde16b-5df1-c57c-f51c-19dc3516fa14",
+                    "name": "Peter Burling"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a4e4f996-798f-a1a1-d201-84c78493b358",
+                    "name": "New Zealanders"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jFXbg3L7Ce_1pS4_IOR8CA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T11:45:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Trump Vs. Harris 2024 Polls: Harris And Trump Virtually Tied In Latest Surveys As Race Tightens",
+            "url": "https://www.forbes.com/sites/saradorn/2024/10/13/trump-vs-harris-2024-polls-harris-leads-by-2-points-in-latest-survey/",
+            "description": "Trump and Harris are tied at 48% in a new NBC poll of registered voters released Sunday, while ABC and Ipsos show Harris with a two-point (50%-48%) advantage among likely voters, within the poll’s 2.5-point margin of error—a shift after both ABC and NBC showed Harris with a roughly five-point lead last month.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Forbes",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.U6nYa4Huf-RFEhjg-V4hNg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T13:27:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "New tower truck hottest news in Marietta firefighting",
+            "url": "https://www.newsandsentinel.com/news/community-news/2024/10/new-tower-truck-hottest-news-in-marietta-firefighting/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.W3yRnOeJ2uTDhNJlFIoiOi&pid=News",
+                    "width": 700,
+                    "height": 525
+                }
+            },
+            "description": "The Marietta Fire Department unveiled its new tower truck Friday as officials believe it will be serving the community for at least the next 30 years. The department received the new 2024 Sutphen SPH100 ladder truck and was showing it to the community as well as Mayor Josh Schlicher and others.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8b95013d-0834-4778-b74b-4876b799f791",
+                    "name": "Marietta, Georgia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0c16e3f3-1b88-28f6-5862-a8c385232e56",
+                    "name": "Sutphen"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5b78da0b-6447-4f71-92b2-f1fafe94ba51",
+                    "name": "Columbus, Ohio"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Parkersburg News and Sentinel",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.YXGl0r6fuP1DxnSsC-IhEA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-12T04:06:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Income tax news: New TDS rates effective October 1 – What will change for taxpayers",
+            "url": "https://www.msn.com/en-in/money/news/income-tax-news-new-tds-rates-effective-october-1-what-will-change-for-taxpayers/ar-AA1rw5eb",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.bdqs1YLb-BT6y1uWRKDsLi&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Union Budget 2024 introduces income tax changes, including revised TDS rates, effective October 1. Notably, the 20% TDS on mutual fund unit repurchases is eliminated, while share buybacks will be taxed as dividends,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2f88c75b-5285-dbaf-1376-14da212339a3",
+                    "name": "Nirmala Sitharaman"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0164b1ff-306c-1d47-7173-399a0aa321ab",
+                    "name": "Income tax in India"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2a71c898-f05d-526a-6571-d4c0d05f37e6",
+                    "name": "TDS Telecom"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fa479227-b79d-663f-005f-8866a6eb615f",
+                    "name": "Permanent account number"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/337dcd01-bc4d-4c5e-4458-a8ac501fe568",
+                    "name": "Deloitte"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Live Mint on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.W8vM8p2PIvfc6Sh2F0nZpA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-01T20:25:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Boeing strike has already cost the company and workers $5 billion, new analysis shows",
+            "url": "https://www.msn.com/en-us/money/news/boeing-strike-has-already-cost-the-company-and-workers-5-billion-new-analysis-shows/ar-AA1sbLAZ",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.9EVDJYhkKrYfAhbp1e4_-y&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The multi-billion-dollar tab highlights the difficulties facing the aircraft maker, once a byword for American quality.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/55f63883-e78e-6fde-3c48-46338a387a5f",
+                    "name": "Boeing"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/29219bca-7431-2aca-7011-2e6bfe3006a7",
+                    "name": "International Association of Machinists and Aerospace Workers"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c4c637e5-f9cc-a3ed-3380-7152515e062e",
+                    "name": "CNN"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7392fc91-86b1-46da-b06a-0d3ba51d1c8a",
+                    "name": "Everett, Washington"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "CNN on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.t0BGYosS4GKZSebCajKQGA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T13:30:38.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "Haryana School News: Schools Closed in Panchkula District Due to Elections, Check Latest News",
+            "url": "https://www.msn.com/en-in/news/India/haryana-school-news-schools-closed-in-panchkula-district-due-to-elections-check-latest-news/ar-AA1rGky7",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.zU4XTiPMeONnm8sv947HrS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "All schools in Panchkula district will remain closed on October 4 and 5, 2024 due to assembly elections. Check latest news here.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/f50b36c9-0e06-9b0a-b657-100ebb295bb1",
+                    "name": "Haryana"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Jagran Josh on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Pg1CxWVlDOcYEbJ-sTiq_g&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-04T05:39:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Renewables revolution: The good and the bad news from the IEA’s latest wind and solar stocktake",
+            "url": "https://www.msn.com/en-xl/news/other/renewables-revolution-the-good-and-the-bad-news-from-the-iea-s-latest-wind-and-solar-stocktake/ar-AA1rXNVW",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.2fbrp623COoVkYKwUupQyS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "China is likely to account for almost 60 per cent of all renewable capacity installed worldwide between now and 2030.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fcc3d97-0cf2-94e5-6dad-cd70e387bd69",
+                    "name": "China"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1980137f-b5f5-331a-6d64-01039fa5b397",
+                    "name": "Renewable energy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/eb052b93-04db-b803-0084-ab06b2007d59",
+                    "name": "International Energy Agency"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c8594e43-f275-5481-7a10-c33f70d20b1e",
+                    "name": "European Parliament"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/18bc42ad-42d8-05b7-3d6c-db04ae0d76a1",
+                    "name": "European Commission"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Africanews English on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.ZY-azDdRG-BK6jOr7KWuHA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-09T14:04:07.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Delhi News Live Updates: Delhi police detains minister Saurabh Bharadwaj for protesting outside L-G’s residence over bus marshals issue",
+            "url": "https://indianexpress.com/article/cities/delhi/delhi-news-live-updates-arvind-kejriwal-aqi-sonam-wangchuk-9602960/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.qMqkGdZD4SWHzgBFCZJp8i&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The Delhi police on Saturday detained Delhi minister Saurabh Bharadwaj, AAP leader Dilip and other party leaders for protesting outside L-G’s residence over the bus marshals issue. “Bus marshals and people of Delhi have been",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27fe1dd8-5711-56d7-c77a-7b4d937dcbfe",
+                    "name": "Delhi, Iowa"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/90e7a080-dd72-bf92-48bd-5649326fa1cb",
+                    "name": "Saurabh Bhardwaj"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d3b89479-3f91-b15a-1ad7-52e071f0455c",
+                    "name": "Atishi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/487bfae9-1de7-98a0-5eec-cfb87bfd5c0a",
+                    "name": "Bharatiya Janata Party"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/406f9300-0c0c-3948-9d26-5c194e968300",
+                    "name": "Arvind Kejriwal"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "The Indian Express",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.KAwemXIpD5l2nQRDmYLy2w&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-05T11:43:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "New Poll Delivers Even More Bad News For Harris Weeks Out From Election",
+            "url": "https://ijr.com/new-poll-delivers-even-more-bad-news-for-harris-weeks-out-from-election/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.5VyaAP3GKd8y3K-xHvvs-C&pid=News",
+                    "width": 700,
+                    "height": 303
+                }
+            },
+            "description": "Former President Donald Trump is outperforming Vice President Kamala Harris among Hispanic male voters, according to an AP/NORC poll released",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "IJR",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Tt_xtXUAaCefsuAjDD5TgA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-11T15:57:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Kamala Harris overtakes Donald Trump among suburban voters, new poll shows",
+            "url": "https://www.msn.com/en-in/news/world/exclusive-kamala-harris-overtakes-donald-trump-among-suburban-residents-reutersipsos-polling-shows/ar-AA1s1D4M",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.jehaxbi9_GfT4mH5D8YbOS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Kamala Harris has erased Donald Trump's advantage in the vast middle of American society: suburban residents and middle-income households, as per new poll.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/ef5cf66f-32b7-7271-286a-8e8313eda5c5",
+                    "name": "Kamala Harris"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9f417f89-9a37-e0d0-912e-99dccfb8982d",
+                    "name": "Reuters"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/443cbaf0-8e4b-bfa6-812b-63a6812d6c58",
+                    "name": "Ipsos"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WION on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.FcttdJgMR0XGb35SksBcag&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-10T13:24:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "2024 election update: Obama holds rally for Harris; latest polls, news | Oct. 10",
+            "url": "https://www.fox5ny.com/news/2024-election-update-latest-polls-news-oct-10",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.OvDc2H_q6CoMJIc7tir5ZC&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Here's a look at latest election polls, maps, and news, including Obama holding a rally in Pittsburgh for Harris.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3af18923-3590-e53b-fdcd-4d1796a9a4cb",
+                    "name": "Barack Obama"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/caeb7b9a-f5d7-4686-8fb5-cf7628296b13",
+                    "name": "New York"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/31e5c36f-c3ad-328f-69d0-e05ae3ea3353",
+                    "name": "Robert Moses"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c2157d7e-617e-4517-80f8-1b08113afc14",
+                    "name": "Nevada"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/bf973f46-5962-4997-a7ba-a05f1aa2a9f9",
+                    "name": "Arizona"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/162411c2-b757-495d-aa81-93942fae2f7e",
+                    "name": "Michigan"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fece3f4-e8e8-4159-843e-f725a930ad50",
+                    "name": "Florida"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Fox 5 NY",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.A_wgay6nFgfB-P7rnmXtOA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-10T16:29:00.0000000Z",
+            "video": {
+                "name": "2024 election update: Latest polls, news, where Trump and Harris are today | Oct. 10",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.pA02pqn9Vt%2BfAbgLgZWlcA&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 292
+                }
+            },
+            "category": "Politics"
+        },
+        {
+            "name": "911 season 8: UK release date and latest news",
+            "url": "https://www.radiotimes.com/tv/drama/911-season-8-release-date/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.3MdgBKrmzT6l1TkF_Tp_ey&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "While 911 season 8 has already debuted in the US, airing on ABC since 26th September, fans in the UK shouldn't fear - they'll only have to wait a little while longer. The new season will officially debut on Disney Plus in the UK on 17th October, with new episodes expected to arrive on the streamer weekly.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/68ce58a0-d04d-4a41-43a0-3a8b8326f6e9",
+                    "name": "Angela Bassett"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/27ca3c98-8ec0-4bf0-ae5f-4527bb8f9e21",
+                    "name": "Peter Krause"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1d215e18-ceec-525d-ac32-ba9b1c87aaee",
+                    "name": "The Swarm"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/c2434504-97b1-3b72-f883-12d787e8beb8",
+                    "name": "Tim Minear"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b26b9ec4-348b-a64c-dd9c-b8c44b7ed775",
+                    "name": "Entertainment Weekly"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/aaec7a48-71d4-4134-5cf2-33ce545a5be1",
+                    "name": "Ryan Murphy"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/e90780d8-c8a8-67d4-6d44-93c67f852ef2",
+                    "name": "The Poseidon Adventure"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Radio Times",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.HVIMpkpJ5pX4_z5dj2pDfw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-10T10:32:00.0000000Z"
+        },
+        {
+            "name": "Uruguay News | Today's Latest Stories | Reuters",
+            "url": "https://www.reuters.com/world/uruguay/",
+            "description": "Reuters.com is your online source for the latest Uruguay news stories and current events, ensuring our readers up to date with any breaking news developments",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Reuters",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.jFXbg3L7Ce_1pS4_IOR8CA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-11T09:04:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "'Stree 2' arrives on Prime Video: Shraddha Kapoor's latest hit now streaming",
+            "url": "https://www.msn.com/en-in/news/techandscience/stree-2-on-ott-biggest-hindi-box-office-hit-now-available-for-streaming/ar-AA1s17y9",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.-FNUbDccp8v7jRBpOoS2TS&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "The horror-comedy hit `Stree 2` is now available on Amazon Prime Video. Join Vicky, Bittu, Rudra, and Jana as they face a new threat in Chanderi.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d058552c-fefb-79af-ac77-f9ed83509bad",
+                    "name": "Amazon Prime Video"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/011e8331-4d04-cf96-48f2-4de1fb2984b8",
+                    "name": "Shraddha Kapoor"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fbbc8d69-667a-e1ff-34bf-e524be01025d",
+                    "name": "Mumbai"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7e9b7ecc-695b-9c8a-3224-7e2242a875e1",
+                    "name": "Rajkummar Rao"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a2113d26-7976-df57-241f-77b7bbb1b4f7",
+                    "name": "Instagram"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cbea7b10-d931-7f1e-d32a-13d8d6550591",
+                    "name": "Chanderi"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/b23d7c66-3b49-b122-5cf1-c2b42e2ac291",
+                    "name": "Dinesh Vijan"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Republic World on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.Ec3X5zSqSGjpM9eTpCZxfA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-10T10:05:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "2024 election update: Trump books MSG rally; latest polls, news | Oct. 9",
+            "url": "https://www.yahoo.com/news/2024-election-trump-books-msg-152015544.html",
+            "description": "Here's a look at latest election polls, maps, and news, including Donald Trump scheduling a rally at New York's Madison Square Garden.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Yahoo",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.UM0amhg3WAObCEGqc4w_Cw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-09T20:27:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Trump responds to new Fox News call for Harris debate",
+            "url": "https://www.rsbnetwork.com/news/trump-responds-to-new-fox-news-call-for-harris-debate/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.8nllR_L_lqTeXHNEp9JIOS&pid=News",
+                    "width": 700,
+                    "height": 466
+                }
+            },
+            "description": "Photo: Alamy President Donald Trump reacted on Wednesday to a new call from Fox News for a presidential debate with Vice President Kamala Harris. Trump claimed to win the debates against President Joe Biden and Harris,",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+                    "name": "Donald Trump"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/273e0477-30ed-3993-f232-f39244306805",
+                    "name": "Fox News"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9e66d2d7-7c33-cb92-a45f-048439011bce",
+                    "name": "Election Day"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "rsbnetwork",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6sz0wzoDyHIwVqGkt4z3jg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-10T12:51:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "Everton injury latest for Ipswich with question over seven players after Iliman Ndiaye scare",
+            "url": "https://www.msn.com/en-gb/news/newsliverpool/everton-injury-latest-for-ipswich-with-question-over-seven-players-after-iliman-ndiaye-scare/ar-AA1sbh7l",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.-AuxD0R1AKjGit5sGaXaZy&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "A round-up of Everton's injury situation after a summer that has posed issues for Sean Dyche and his Finch Farm staff",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/7b44e8a8-d0f8-38f1-37fe-08066d966443",
+                    "name": "Everton, Liverpool"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fd90999f-88f8-58f1-5b63-84d78af91a2d",
+                    "name": "Ipswich"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/07d1f8f5-5f07-1cf4-cb26-6b9746be47dd",
+                    "name": "Sean Dyche"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a5d11cd0-320e-94eb-0645-f2ab64163020",
+                    "name": "Finch Farm"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/3b13843a-0466-fb73-63ef-c8369cd98c1e",
+                    "name": "Ipswich Town F.C."
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/02bde011-1e9d-3aff-8309-7d07d4031798",
+                    "name": "Premier League"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/052f4663-33eb-888c-f803-90f9c9e55426",
+                    "name": "Kieran McKenna"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/dde25d4f-6bc8-e22c-bb2c-26173d7d3326",
+                    "name": "Goodison Park"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Liverpool Echo on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.lMNuYaPYFKYNaBUKNyUFHg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T10:19:12.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Top kitchen brand ProCook confirms new Exeter store",
+            "url": "https://www.msn.com/en-gb/cars/news/top-kitchen-brand-procook-confirms-new-exeter-store/ar-AA1sbBeK",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.it0KRX9dD4C1_CBe95LkFC&pid=News",
+                    "width": 700,
+                    "height": 367
+                }
+            },
+            "description": "Kitchen retailer ProCook has confirmed it is opening in Exeter city centre. It replaces a suit shop, which has now closed.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9c37482a-c28c-5bd7-4376-abcbc935cab3",
+                    "name": "Exeter"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/be755d0f-85df-5df5-c2f0-b676ecf412a8",
+                    "name": "Baird"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Devon Live on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.IkSEzXMGPlUAPF6aRZhyDw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T12:41:31.0000000Z"
+        },
+        {
+            "name": "Colorful launches new Z890 Motherboards for Intel Core Ultra 200 processors",
+            "url": "https://www.firstpost.com/tech/colorful-launches-new-z890-motherboards-for-intel-core-ultra-200-processors-13824635.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.SLG1DyuQ2jJCuRvXBypmyy&pid=News",
+                    "width": 700,
+                    "height": 393
+                }
+            },
+            "description": "Colorful revealed seven different Z890 motherboard models, ranging from high-end options for performance enthusiasts to more affordable versions for mainstream users. Flagship models include the iGame Z890 Vulcan X/W,",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Firstpost",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.QhGNXWFNN9fOcqA6wgPRRg&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-11T12:57:00.0000000Z",
+            "category": "ScienceAndTechnology"
+        },
+        {
+            "name": "Rams News: New Trade Deadline Prediction Has LA Moving Matthew Stafford",
+            "url": "https://www.msn.com/en-us/sports/nfl/rams-news-new-trade-deadline-prediction-has-la-moving-matthew-stafford/ar-AA1rYEuz",
+            "description": "The Los Angeles Rams are getting off to a slow start in the 2024 NFL season. Now sporting a 1-4 win-loss record, Los Angeles is once again looking to head coach",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Los Angeles Rams On SI on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.DAlg1K6d6FcCd2ockBPdcQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-09T22:40:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "New Hanover home listings asked for less money in September. Here's the current median price",
+            "url": "https://www.aol.com/hanover-home-listings-asked-less-090737185.html",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.mDVgG6tg8Ze4TTkx1jHZRC&pid=News",
+                    "width": 700,
+                    "height": 474
+                }
+            },
+            "description": "The median home in New Hanover County listed for $534,000 in September, down 2% from the previous month's $545,000, an analysis of data from Realtor.com shows. Compared to September 2023, the median home list price decreased 2.9% from $549,834.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/cc675df0-50eb-bac9-95de-bd8e9642269b",
+                    "name": "New Hanover County, North Carolina"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/d0799e3d-a1b6-7ecf-2d90-b8c8bae1008b",
+                    "name": "Realtor.com"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "AOL",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.6l3fMUjuba1Bx26WywDhqQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T12:07:00.0000000Z",
+            "category": "Business"
+        },
+        {
+            "name": "New Big Bang Theory spinoff reveals cast, and it’s bad news for Young Sheldon fans",
+            "url": "https://www.dexerto.com/tv-movies/new-big-bang-theory-spinoff-cast-bad-news-young-sheldon-fans-2924878/",
+            "description": "Sorry Young Sheldon fans, but a new Big Bang Theory spinoff is in the works, and its cast aren’t connected to the prequel in any way.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "Dexerto",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.0iS1Dv-e5sD2zbhqxLjIMA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-11T09:58:00.0000000Z",
+            "category": "Entertainment"
+        },
+        {
+            "name": "Palm Beach County news: 10 Teamsters back Harris; new Florida laws; $30 million library",
+            "url": "https://www.usatoday.com/story/news/2024/10/07/palm-beach-county-news-10-teamsters-back-harris-new-florida-laws/75516331007/",
+            "description": "“Florida has chosen to reject comfortable inaction and tackle this problem head on,” House bill sponsor Sam Garrison, R-Fleming Island, said in June after the U.S. Supreme Court upheld the constitutionality of an Oregon city’s ordinance cracking down on public camping.",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "USA Today",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.m1iod5ODNIyyKu23kGIllQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-07T21:42:00.0000000Z",
+            "category": "Politics"
+        },
+        {
+            "name": "How Robert Saleh Took News of Stunning New York Jets Firing",
+            "url": "https://www.msn.com/en-us/sports/nfl/how-robert-saleh-took-news-of-stunning-new-york-jets-firing/ar-AA1rUoXQ",
+            "description": "Monday was a pretty typical day for Robert Saleh. He showed up at the New York Jets’ team facility, talked to media about injury updates and the loss to Minneso",
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "New York Jets On SI on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.DAlg1K6d6FcCd2ockBPdcQ&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-08T22:00:00.0000000Z",
+            "category": "Sports"
+        },
+        {
+            "name": "Biden to announce more than $600 million for electric grid resilience during visit to survey Hurricane Milton damage",
+            "url": "https://www.msn.com/en-us/news/politics/biden-to-announce-more-than-600-million-for-electric-grid-resilience-during-visit-to-survey-hurricane-milton-damage/ar-AA1sbvf8",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.u311LPq-lg4_qR2RHq6qYy&pid=News",
+                    "width": 700,
+                    "height": 395
+                }
+            },
+            "description": "The $612 million in funding Biden is set to announce comes as almost 1.5 million customers struggle with power outages.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/5fece3f4-e8e8-4159-843e-f725a930ad50",
+                    "name": "Florida"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/541cd519-750b-9c92-8413-a537def6abbe",
+                    "name": "White House"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/a020057f-3657-44fa-93b7-6de6c464e812",
+                    "name": "St. Petersburg, Florida"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/84604bc7-2c47-4f8d-8ea5-b6ac8c018a20",
+                    "name": "Georgia"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/810015e8-b10b-4232-9e2c-de87a67bd26e",
+                    "name": "South Carolina"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/9e2bf053-dd80-4646-8f26-65075e7085c0",
+                    "name": "North Carolina"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "WPTZ Plattsburgh-Burlington on MSN.com",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.B3IIYfn9XygTVfeEnDtNcA&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-13T12:38:00.0000000Z",
+            "video": {
+                "name": "Biden to announce more than $600 million for electric grid resilience during visit to survey Hurricane Milton damage",
+                "thumbnailUrl": "https://www.bing.com/th?id=OVF.VzfLMnMsY5PXlTdp1m%2FX2g&pid=News",
+                "thumbnail": {
+                    "width": 520,
+                    "height": 294
+                }
+            },
+            "category": "Politics"
+        },
+        {
+            "name": "Tata Trusts confirms appointment of Noel Naval Tata as its new chairman",
+            "url": "https://theprint.in/economy/tata-trusts-confirms-appointment-of-noel-naval-tata-as-its-new-chairman/2307807/",
+            "image": {
+                "thumbnail": {
+                    "contentUrl": "https://www.bing.com/th?id=OVFT.GARgrXRF_uVzb1tFGikrfi&pid=News",
+                    "width": 600,
+                    "height": 450
+                }
+            },
+            "description": "Tata Trusts, in an official statement, confirmed the appointment of Noel Naval Tata as its new chairman after the demise of Ratan Tata, who served as esteemed chairman of Tata Group for decades and Chairman of the trust.",
+            "about": [
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/fbbc8d69-667a-e1ff-34bf-e524be01025d",
+                    "name": "Mumbai"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/8e20e4dc-1423-75a9-a049-5e500370aafa",
+                    "name": "Maharashtra"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/2d67f4d8-d10c-9c37-a5b3-3bda619a414c",
+                    "name": "Ratan Tata"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/df28e286-b566-e49e-a091-c86ee2015ae8",
+                    "name": "Tata Group"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/0e11ae16-bd34-3edf-a3c8-857530e69eed",
+                    "name": "Yeoman"
+                },
+                {
+                    "readLink": "https://api.bing.microsoft.com/api/v7/entities/97373fc2-aa9b-43ae-8b15-e50a1cae2071",
+                    "name": "ThePrint"
+                }
+            ],
+            "provider": [
+                {
+                    "_type": "Organization",
+                    "name": "ThePrint",
+                    "image": {
+                        "thumbnail": {
+                            "contentUrl": "https://www.bing.com/th?id=ODF.9kfNo9d18zH27ShHLQcBfw&pid=news"
+                        }
+                    }
+                }
+            ],
+            "datePublished": "2024-10-11T11:47:00.0000000Z",
+            "category": "Business"
+        }
+    ]
+}
