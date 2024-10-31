@@ -55,7 +55,7 @@ The pipeline includes the following primary tasks:
    - Add Lakehouse (`bing_lake_db`) as source
 
 #### 2.3. **Pipeline**
-<img src="images/pipeline_.png" alt="drawing" width="700"/>
+<img src="Images/Pipeline.PNG" alt="drawing" width="700"/>
 
 Go to Data Engineering & create new Data Pipeline named `bing news data ingestion`
 
@@ -75,7 +75,7 @@ Then, create the following tasks in the pipeline:
        - Name: `Ocp-Apim-Subscription-Key` (taken from [News Search API v7 headers](https://learn.microsoft.com/en-us/bing/search-apis/bing-news-search/reference/headers) documentation)
        - Value: `Insert value of endpoint key from your Bing Search resource in azure`
    - Destination: as per the below screenshot
-     <img src="Images/copy-news-destination.png" alt="drawing" width="500"/>
+     <img src="Images/copy-news-destination.PNG" alt="drawing" width="700"/>
 2.  **Notebook (`Data Transformation`)**
   - Settings:
     - Workspace: `Bing Search`
@@ -113,10 +113,10 @@ Once you created the semantic model, you can modify it:
 #### 2.5. **Power BI**
 1. Go to your semantic model `bing-news-dashboard-model`
 2. Click `Explore this Data` >> `Auto-Generate report`\
-    <img src="Images/Bing-news-dashboard-charts.png" alt="drawing" width="500"/>
+    <img src="Images/Bing-news-dashboard-charts.PNG" alt="drawing" width="700"/>
 4. AI will auto-genearte a nice report for you.
 5. You can add a new page to create custom report (using custom measures and modified columns which you did earlier)\
-   <img src="Images/Bing-news-dashboard.png" alt="drawing" width="500"/>
+   <img src="Images/Bing-news-dashboard.png" alt="drawing" width="700"/>
 
 #### 2.6. **Data Activator**
 
